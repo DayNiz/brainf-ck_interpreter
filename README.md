@@ -1,7 +1,8 @@
-#brainf-ck_interpreter
+# brainf-ck_interpreter
 A simple BrainFuck interpreter in Python.
 
-Usage: python brainfuck.py <file.brainfuck> [ascii_mode=true/false]
+Usage: ```python brainfuck.py <file.brainfuck> [ascii_mode=true/false]```
+
 By default, a "." is displayed as the corresponding ASCII character. To see the number, add "false" as the second argument.
 
 ___
